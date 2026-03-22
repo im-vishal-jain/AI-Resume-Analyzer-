@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+PyPDF2
+docx2txt
+wordcloud
+matplotlib
